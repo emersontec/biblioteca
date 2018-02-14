@@ -15,7 +15,7 @@
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
 		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 		<![endif]-->
-
+tesssssssste
 		<!-- jQuery (obrigatário para plugins JavaScript do Bootstrap) -->
 		<script src="adicional/js/jquery.min.js"></script>
 		<!-- Inclui todos os plugins compilados (abaixo), ou inclua arquivos separadados se necessário -->
